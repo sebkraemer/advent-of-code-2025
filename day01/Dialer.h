@@ -4,7 +4,7 @@
 
 #ifndef ADVENT_OF_CODE_2025_DIALER_H
 #define ADVENT_OF_CODE_2025_DIALER_H
-#include <cstdlib>
+#include <stdexcept>
 #include <string>
 
 namespace day01 {
