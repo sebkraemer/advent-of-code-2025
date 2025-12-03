@@ -1,6 +1,5 @@
-cmake_minimum_required(VERSION 4.0)
-
-add_library(day01helper readfile.cpp
+add_library(day01helper
+        ReadFile.cpp
         Dialer.cpp
         Dialer.h)
 
